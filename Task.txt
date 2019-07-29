@@ -1,0 +1,4 @@
+Work with headings
+
+Print the form with the list and values: "Google", "VK", "Author's site". Add a button "Go to the site."
+Depending on what the user chooses, you must redirect to https: // google., Https://www.youtube.com/ or https://hltv.org/
